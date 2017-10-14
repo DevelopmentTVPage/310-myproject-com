@@ -1,7 +1,7 @@
 {
     "title": "Search",
     "description": "",
-    "type": "",
+    "type": "captivate",
     "layout": "search",
     "url": "\/search"
 }
